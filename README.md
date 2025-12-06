@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Rashi Daga
+# 💫 Hello 👋, I'm Rashi Daga
 ### 👩‍💻 About Me
 
 - I'm a Computer Science student who loves learning by doing  
